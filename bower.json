@@ -1,0 +1,31 @@
+{
+  "name": "ComboBox",
+  "version": "1.0.0",
+  "authors": [
+    "Dane <270422767@qq.com>"
+  ],
+  "description": "A combobox that write by Backbone.Marionette",
+  "keywords": [
+    "Backbone",
+    "Marionette",
+    "Combo",
+    "ComboBox"
+  ],
+  "license": "MIT",
+  "homepage": "http://dingchao-lonton.iteye.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+   "dependencies": {
+	"bootstrap": "~3.2.0",
+    "backbone.marionette": "~2.2.0",
+    "jquery": "~2.1.1",
+    "requirejs": "~2.1.14",
+	"handlebars": "~2.0.0",
+	"text": "~2.0.12"
+  }
+}
